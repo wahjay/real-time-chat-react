@@ -3,7 +3,7 @@
 <b>Description</b>: A React real-time chat where users can chat anoymously in a public room.
 And uses can also chat privately with others.
 
-URL to the app: quantumchat.netlify.app
+URL to the app: <a href="https://quantumchat.netlify.app" title="Quantum Chat">Link to the chat app</a>
 
 
 Based on the tutorial from <b>JavaScript Mastery</b>, Adrian Hajdin.
