@@ -21,7 +21,7 @@ const GetLocalStore = (key) => {
   const now = new Date();
   if(now.getTime() > itemObj.exp) {
     sessionStorage.removeItem(key);
-		return null;
+    return null;
   }
 
   return itemObj.value;
