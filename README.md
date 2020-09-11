@@ -5,9 +5,7 @@ And uses can also chat privately with others.
 
 URL to the app: <a href="https://quantumchat.netlify.app" title="Quantum Chat">Link to the chat app</a>
 
-
-Based on the tutorial from <b>JavaScript Mastery</b>, Adrian Hajdin.
-On top of that, I have extended the chat-app by adding some features such as private messages, and unread messages notification, adding friends.
+I have extended the chat-app by adding some features such as private messages, and unread messages notification, adding friends.
 
 
 ### Features to be added later
